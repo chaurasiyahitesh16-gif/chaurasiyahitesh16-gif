@@ -37,6 +37,3 @@ Below is an interactive view of my development activity:
 🤝 Let's Connect!
 I am always open to discussing web development projects, code architecture, open-source collaborations, or potential professional opportunities. Feel free to reach out through any of these networks:
 �
-￼ ￼ ￼ ￼ 
-
-⚡ Fun Fact: Most of my midnight oil is burned optimizing Lighthouse performance scores from 95 to 100.
